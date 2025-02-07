@@ -1,4 +1,4 @@
-**[Francisco José Rodríguez Ruesgas]** - [alu0101039725](https://github.com/alu0101039725)
+**Francisco José Rodríguez Ruesgas** - [alu0101039725](https://github.com/alu0101039725)
 
 Alumno del [Grado en Ingeniería Informática](https://www.ull.es/grados/ingenieria-informatica/) por la Universidad de La Laguna.
 <!--
